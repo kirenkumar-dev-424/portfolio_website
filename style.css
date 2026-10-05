@@ -771,9 +771,9 @@ header .resume-button>a:hover{
         gap: 0;
         justify-content: space-evenly;
     }
-    header>nav>ul>li:nth-child(5){
+    /* header>nav>ul>li:nth-child(5){
         display: none;
-    }
+    } */
     header>nav>ul>li>a{
         display: flex;
         width: 55px;
